@@ -1,5 +1,5 @@
 # ServerClientAuthentication
 
-Salida por consola Client: ![image](https://github.com/user-attachments/assets/5e5e546a-5771-4a1d-9f97-b880ed284343)
+![image](https://github.com/user-attachments/assets/2d04791b-d35f-4c86-bb2d-bf7b591e8aec)
+![image](https://github.com/user-attachments/assets/d12bf8f4-7f2b-479a-8855-c0f148af44c5)
 
-Salida por consola Server: ![image](https://github.com/user-attachments/assets/c3b82c96-a7a0-44f1-bbba-9619d8fad451)
